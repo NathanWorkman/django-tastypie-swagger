@@ -1,1 +1,5 @@
 wsgiref==0.1.2
+django==1.11.24
+argparse==1.2.1
+django-tastypie==0.13.3
+-e .
